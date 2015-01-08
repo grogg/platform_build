@@ -18,15 +18,24 @@
 # It includes the base Android platform.
 
 PRODUCT_PACKAGES := \
+    AdAway \
+    Apollo \
     Bluetooth \
     BluetoothMidiService \
     MusicFX \
+    CMFileManager \
+    DSPManager \
+    Gallery2 \
     OneTimeInitializer \
     Provision \
+    ScreenRecorder \
     SystemUI \
     WallpaperCropper
+    
 
 PRODUCT_PACKAGES += \
+    busybox \
+    static_busybox \
     clatd \
     clatd.conf \
     pppd \
@@ -34,6 +43,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     librs_jni \
+    libscreenrecorder \
     libvideoeditor_jni \
     libvideoeditor_core \
     libvideoeditor_osal \
