@@ -20,11 +20,11 @@
 PRODUCT_PACKAGES := \
     AdAway \
     Apollo \
+    AudioFX \
     Bluetooth \
     BluetoothMidiService \
     MusicFX \
     CMFileManager \
-    DSPManager \
     Gallery2 \
     OneTimeInitializer \
     Provision \
