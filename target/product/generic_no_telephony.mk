@@ -19,13 +19,13 @@
 
 PRODUCT_PACKAGES := \
     AdAway \
-    AudioFX \
     Bluetooth \
     BluetoothMidiService \
     MusicFX \
     CMFileManager \
     Eleven \
     Gallery2 \
+    MusicFX \
     OneTimeInitializer \
     Provision \
     ScreenRecorder \
