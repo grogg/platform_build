@@ -19,10 +19,10 @@
 
 PRODUCT_PACKAGES := \
     AdAway \
-    Apollo \
     AudioFX \
     Bluetooth \
     CMFileManager \
+    Eleven \
     Gallery2 \
     OneTimeInitializer \
     Provision \
