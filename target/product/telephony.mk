@@ -18,8 +18,8 @@
 # to products that have telephony hardware.
 
 PRODUCT_PACKAGES := \
-    Dialer \
-    Mms \
+    GoogleDialer \
+    GoogleMessenger \
     rild
 
 PRODUCT_COPY_FILES := \

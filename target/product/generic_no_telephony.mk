@@ -20,12 +20,10 @@
 PRODUCT_PACKAGES := \
     AdAway \
     Bluetooth \
-    Camera2 \
     CMFileManager \
     Eleven \
     Email \
     Gallery2 \
-    Launcher3 \
     MusicFX \
     OneTimeInitializer \
     Provision \
