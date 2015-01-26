@@ -22,6 +22,8 @@ PRODUCT_PACKAGES := \
     Dialer \
     CallLogBackup \
     Mms \
+    GoogleDialer \
+    GoogleMessenger \
     rild
 
 PRODUCT_COPY_FILES := \

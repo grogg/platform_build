@@ -27,7 +27,6 @@ PRODUCT_PACKAGES := \
     Eleven \
     Email \
     Gallery2 \
-    Launcher3 \
     MusicFX \
     OneTimeInitializer \
     Provision \
