@@ -18,7 +18,6 @@
 # It includes the base Android platform.
 
 PRODUCT_PACKAGES := \
-    AdAway \
     Bluetooth \
     BluetoothMidiService \
     MusicFX \
