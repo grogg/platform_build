@@ -22,7 +22,6 @@ PRODUCT_PACKAGES := \
     BluetoothMidiService \
     MusicFX \
     Camera2 \
-    CMFileManager \
     Eleven \
     Email \
     Gallery2 \
