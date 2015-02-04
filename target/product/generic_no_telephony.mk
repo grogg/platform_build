@@ -22,7 +22,7 @@ PRODUCT_PACKAGES := \
     Eleven \
     Email \
     Gallery2 \
-    AudioFX \
+    MusicFX \
     OneTimeInitializer \
     Provision \
     ScreenRecorder \
