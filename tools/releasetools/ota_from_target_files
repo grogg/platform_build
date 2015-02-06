@@ -546,7 +546,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   device_specific.FullOTA_InstallBegin()
 
   if block_based:
-    common.ZipWriteStr(ouput_zip, "supersu/supersu.zip",
+    common.ZipWriteStr(output_zip, "system/supersu/supersu.zip",
                    ""+input_zip.read("SYSTEM/supersu/SuperSU.zip"))
 
   system_progress = 0.75
