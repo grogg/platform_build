@@ -23,7 +23,6 @@ PRODUCT_PACKAGES := \
     MusicFX \
     Camera2 \
     Eleven \
-    Email \
     Gallery2 \
     MusicFX \
     OneTimeInitializer \
