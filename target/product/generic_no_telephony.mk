@@ -20,7 +20,6 @@
 PRODUCT_PACKAGES := \
     Bluetooth \
     Eleven \
-    Email \
     Gallery2 \
     MusicFX \
     OneTimeInitializer \
