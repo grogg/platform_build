@@ -19,6 +19,7 @@
 
 PRODUCT_PACKAGES := \
     Bluetooth \
+    CMFileManager \
     Eleven \
     Gallery2 \
     MusicFX \
