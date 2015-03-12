@@ -22,7 +22,6 @@ PRODUCT_PACKAGES := \
     Eleven \
     Gallery2 \
     MusicFX \
-    OneTimeInitializer \
     Provision \
     ScreenRecorder \
     SystemUI \
