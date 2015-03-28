@@ -23,7 +23,6 @@ PRODUCT_PACKAGES := \
     
 PRODUCT_PROPERTY_OVERRIDES := \
     log.tag.launcher_force_rotate=VERBOSE
-    net.tethering.noprovisioning=true
     keyguard.no_require_sim=true \
     ro.com.android.dataroaming=true
 
