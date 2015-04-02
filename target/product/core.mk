@@ -24,6 +24,7 @@ PRODUCT_PACKAGES += \
     BasicDreams \
     Browser \
     Calculator \
+    CalendarProvider \
     CaptivePortalLogin \
     CertInstaller \
     Contacts \
