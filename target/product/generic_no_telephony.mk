@@ -19,16 +19,19 @@
 
 PRODUCT_PACKAGES := \
     Bluetooth \
-    Camera2 \
+    Eleven \
     Gallery2 \
-    Music \
     MusicFX \
-    OneTimeInitializer \
     Provision \
+    ScreenRecorder \
     SystemUI \
+    Terminal \
     WallpaperCropper
+    
 
 PRODUCT_PACKAGES += \
+    busybox \
+    static_busybox \
     clatd \
     clatd.conf \
     pppd \
@@ -36,6 +39,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     librs_jni \
+    libscreenrecorder \
     libvideoeditor_jni \
     libvideoeditor_core \
     libvideoeditor_osal \
