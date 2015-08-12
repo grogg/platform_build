@@ -19,8 +19,6 @@
 
 PRODUCT_PACKAGES := \
     Bluetooth \
-    Eleven \
-    Gallery2 \
     MusicFX \
     Provision \
     ScreenRecorder \
