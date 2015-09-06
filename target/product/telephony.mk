@@ -19,7 +19,6 @@
 
 PRODUCT_PACKAGES := \
     GoogleDialer \
-    GoogleMessenger \
     rild
 
 PRODUCT_COPY_FILES := \
