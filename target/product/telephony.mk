@@ -19,11 +19,7 @@
 
 PRODUCT_PACKAGES := \
     CarrierConfig \
-    Dialer \
     CallLogBackup \
-    Mms \
-    GoogleDialer \
-    GoogleMessenger \
     rild
 
 PRODUCT_COPY_FILES := \
